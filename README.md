@@ -26,6 +26,7 @@ Eerst het probleem en de mensen begrijpen. Dan een werkbare oplossing bouwen, co
 ## AI-gebruik uit lokale codinglogs
 
 [![Geregistreerde codingtokens](https://www.viberank.app/api/badge/OrlyVlotConsultancy?metric=tokens&snapshot=202611021320040000)](https://www.viberank.app/profile/OrlyVlotConsultancy)
+[![Viberank-rang](https://www.viberank.app/api/badge/OrlyVlotConsultancy)](https://www.viberank.app/profile/OrlyVlotConsultancy)
 
 Bron: ccusage 20.0.47, beschikbare lokale codinglogs op één computer, over alle lokaal gevonden projecten en ondersteunde tools. Geregistreerde dagen: **2026-06-27 t/m 2026-11-02 (UTC)**. Dit is een cumulatieve geregistreerde stand, geen zeven-dagenrang of volledige meting van ChatGPT Business.
 
