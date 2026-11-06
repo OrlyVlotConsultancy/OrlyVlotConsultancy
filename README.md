@@ -25,12 +25,12 @@ Eerst het probleem en de mensen begrijpen. Dan een werkbare oplossing bouwen, co
 <!-- local-coding-usage:start -->
 ## AI-gebruik uit lokale codinglogs
 
-[![Geregistreerde codingtokens](https://www.viberank.app/api/badge/OrlyVlotConsultancy?metric=tokens&snapshot=202611050812250000)](https://www.viberank.app/profile/OrlyVlotConsultancy)
+[![Geregistreerde codingtokens](https://www.viberank.app/api/badge/OrlyVlotConsultancy?metric=tokens&snapshot=202611061048200000)](https://www.viberank.app/profile/OrlyVlotConsultancy)
 [![Viberank-rang](https://www.viberank.app/api/badge/OrlyVlotConsultancy)](https://www.viberank.app/profile/OrlyVlotConsultancy)
 
-Bron: ccusage 20.0.47, beschikbare lokale codinglogs op één computer, over alle lokaal gevonden projecten en ondersteunde tools. Geregistreerde dagen: **2026-06-27 t/m 2026-11-05 (UTC)**. Dit is een cumulatieve geregistreerde stand, geen zeven-dagenrang of volledige meting van ChatGPT Business.
+Bron: ccusage 20.0.47, beschikbare lokale codinglogs op één computer, over alle lokaal gevonden projecten en ondersteunde tools. Geregistreerde dagen: **2026-06-27 t/m 2026-11-06 (UTC)**. Dit is een cumulatieve geregistreerde stand, geen zeven-dagenrang of volledige meting van ChatGPT Business.
 
-Laatst geslaagde upload: **2026-11-05T08:12:25+00:00**. Dagelijkse update gepland rond 09:00 Europe/Amsterdam via Windows Taakplanner. De computer moet beschikbaar zijn en mijn Windows-gebruiker moet aangemeld zijn; ChatGPT/Codex hoeft niet open te staan. Een gemist tijdstip wordt bij de eerstvolgende geschikte gelegenheid ingehaald. Controleer de datum: na 48 uur zonder geslaagde update is deze stand verouderd. De Viberank-badge kan dan de oude score blijven tonen.
+Laatst geslaagde upload: **2026-11-06T10:48:20+00:00**. Dagelijkse update gepland rond 09:00 Europe/Amsterdam via Windows Taakplanner. De computer moet beschikbaar zijn en mijn Windows-gebruiker moet aangemeld zijn; ChatGPT/Codex hoeft niet open te staan. Een gemist tijdstip wordt bij de eerstvolgende geschikte gelegenheid ingehaald. Controleer de datum: na 48 uur zonder geslaagde update is deze stand verouderd. De Viberank-badge kan dan de oude score blijven tonen.
 
 GitHub-verificatie bevestigt mijn uploadidentiteit. De gegevens komen uit lokale logs, niet uit een onafhankelijke accountaudit. De Viberank-rank en tier zijn gebaseerd op geschatte API-equivalente kosten; dit zijn geen werkelijke abonnementsuitgaven en geen maat voor kwaliteit of impact. [Meetbron](https://github.com/ccusage/ccusage) · [Viberank](https://www.viberank.app/profile/OrlyVlotConsultancy)
 <!-- local-coding-usage:end -->
