@@ -23,7 +23,7 @@ Eerst het probleem en de mensen begrijpen. Dan een werkbare oplossing bouwen, co
 [Website](https://orlyvlot.nl/) · [LinkedIn](https://www.linkedin.com/in/orlyvlot/) · [GitHub-organisatie](https://github.com/JourneyConsultancy)
 
 <!-- local-coding-usage:start -->
-**Automatische bijwerking niet afgerond op 2026-11-23T16:03:53+00:00. De badge kan een eerdere geregistreerde stand tonen.**
+**Automatische bijwerking niet afgerond op 2026-11-24T08:00:46+00:00. De badge kan een eerdere geregistreerde stand tonen.**
 
 ## AI-gebruik uit lokale codinglogs
 
